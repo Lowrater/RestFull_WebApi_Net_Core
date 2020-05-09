@@ -1,0 +1,24 @@
+I:\Visual studio projects\CompanyBroker\CompanyBroker.Data\bin\Debug\netstandard2.0\CompanyBroker.Data.deps.json
+I:\Visual studio projects\CompanyBroker\CompanyBroker.Data\bin\Debug\netstandard2.0\CompanyBroker.Data.dll
+I:\Visual studio projects\CompanyBroker\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.csprojAssemblyReference.cache
+I:\Visual studio projects\CompanyBroker\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.AssemblyInfoInputs.cache
+I:\Visual studio projects\CompanyBroker\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.AssemblyInfo.cs
+I:\Visual studio projects\CompanyBroker\CompanyBroker.Data\bin\Debug\netstandard2.0\CompanyBroker.Data.pdb
+I:\Visual studio projects\CompanyBroker\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.dll
+I:\Visual studio projects\CompanyBroker\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.pdb
+C:\Users\PC\source\repos\CompanyBroker_RestFull_Api\CompanyBroker.Data\bin\Debug\netstandard2.0\CompanyBroker.Data.deps.json
+C:\Users\PC\source\repos\CompanyBroker_RestFull_Api\CompanyBroker.Data\bin\Debug\netstandard2.0\CompanyBroker.Data.dll
+C:\Users\PC\source\repos\CompanyBroker_RestFull_Api\CompanyBroker.Data\bin\Debug\netstandard2.0\CompanyBroker.Data.pdb
+C:\Users\PC\source\repos\CompanyBroker_RestFull_Api\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\CompanyBroker_RestFull_Api\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CompanyBroker_RestFull_Api\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.AssemblyInfo.cs
+C:\Users\PC\source\repos\CompanyBroker_RestFull_Api\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.dll
+C:\Users\PC\source\repos\CompanyBroker_RestFull_Api\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.pdb
+C:\Users\PC\source\repos\Git projects\RestFull_WebApi_Net_Core\CompanyBroker.Data\bin\Debug\netstandard2.0\CompanyBroker.Data.deps.json
+C:\Users\PC\source\repos\Git projects\RestFull_WebApi_Net_Core\CompanyBroker.Data\bin\Debug\netstandard2.0\CompanyBroker.Data.dll
+C:\Users\PC\source\repos\Git projects\RestFull_WebApi_Net_Core\CompanyBroker.Data\bin\Debug\netstandard2.0\CompanyBroker.Data.pdb
+C:\Users\PC\source\repos\Git projects\RestFull_WebApi_Net_Core\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Git projects\RestFull_WebApi_Net_Core\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Git projects\RestFull_WebApi_Net_Core\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.AssemblyInfo.cs
+C:\Users\PC\source\repos\Git projects\RestFull_WebApi_Net_Core\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.dll
+C:\Users\PC\source\repos\Git projects\RestFull_WebApi_Net_Core\CompanyBroker.Data\obj\Debug\netstandard2.0\CompanyBroker.Data.pdb
